@@ -1,3 +1,7 @@
 body {
     background-color: lightblue;
 }
+#mainNav {
+  min-height: 56px;
+  background-color: white;
+}
