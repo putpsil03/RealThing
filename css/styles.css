@@ -4,6 +4,11 @@ body {
     display: run-in;
 }
 
+p{
+  text-align: center;
+  font-family: amatic SC;
+}
+
 #mainNav {
   min-height: 56px;
   background-color: white;
