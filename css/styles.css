@@ -24,6 +24,16 @@ h2 {
 
 img {
   padding-top: 50px;
-  width: 1000px;
-  height: 400px;
+  width: 900px;
+  height: 800px;
+}
+
+.btn {
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  padding: 1.25rem 2rem;
+  font-family: 'Varela Round';
+  font-size: 80%;
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  border: 0;
 }
