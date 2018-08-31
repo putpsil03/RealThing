@@ -1,5 +1,7 @@
 body {
     background-color: lightblue;
+    border:  4px solid black;
+    display: run-in;
 }
 
 #mainNav {
@@ -9,6 +11,9 @@ body {
 
 h2 {
   padding-top: 100px;
+  text-align: center;
+  font-family: Courier New ;
+  font-size: 40px
 }
 
 img {
