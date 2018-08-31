@@ -1,7 +1,13 @@
 body {
     background-color: lightblue;
 }
+<<<<<<< HEAD
 #mainNav {
   min-height: 56px;
   background-color: white;
+=======
+
+h2 {
+  padding-top: 200px;
+>>>>>>> 0a6b82c66f9cbdfa3783465b5e08ed85a8513b08
 }
